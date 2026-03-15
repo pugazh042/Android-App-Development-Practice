@@ -62,10 +62,13 @@ Select the experiment folder you want to run
 Build & run on an emulator or physical device
 
 Make sure USB debugging is enabled on physical devices.
+```
+```bash
 
 👤 Author
 
 Name: Pugazhendhi B
-Email: your-email@example.com
+Email: pugazhendhi2k5@gmail.com / 231701042@rajalakshmi.edu.in
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/pugazh042
+```
