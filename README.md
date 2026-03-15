@@ -6,7 +6,7 @@ This repository contains all experiments conducted as part of the **Mobile Appli
 
 ## 📁 Folder Structure
 
-
+```bash
 Android-Mobile-Application-Development-Lab
 │
 ├── screenshots
@@ -30,7 +30,7 @@ Android-Mobile-Application-Development-Lab
 │
 └── Experiment-5
 └── DataVisualizationApp
-
+```
 
 ---
 
