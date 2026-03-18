@@ -38,12 +38,12 @@ Android-Mobile-Application-Development-Lab
 
 | Experiment | Folder | Description | Key Features |
 |------------|--------|-------------|--------------|
-| **1** | BasicMobileApplication | Introductory app to learn layouts & UI | Buttons, TextView, simple interactions |
-| **1** | Counter | Increment/decrement counter app | Change font size, font color, background color |
-| **1** | TemperatureConverter | Converts Celsius ↔ Fahrenheit | Input field, spinners for units, result display |
-| **2** | BasicCalculator | Simple calculator | `+`, `-`, `*`, `/`, `%` operations |
-| **2** | BMICalculator | Calculates Body Mass Index | Weight & height input, health status display |
-| **2** | SciFiCalculator | Scientific calculator | `sin`, `cos`, `tan`, `log`, `ln`, `√`, `π`, `^` |
+| **1.1** | BasicMobileApplication | Introductory app to learn layouts & UI | Buttons, TextView, simple interactions |
+| **1.2** | Counter | Increment/decrement counter app | Change font size, font color, background color |
+| **1.3** | TemperatureConverter | Converts Celsius ↔ Fahrenheit | Input field, spinners for units, result display |
+| **2.1** | BasicCalculator | Simple calculator | `+`, `-`, `*`, `/`, `%` operations |
+| **2.2** | BMICalculator | Calculates Body Mass Index | Weight & height input, health status display |
+| **2.3** | SciFiCalculator | Scientific calculator | `sin`, `cos`, `tan`, `log`, `ln`, `√`, `π`, `^` |
 | **3** | design-screenshots | UI design in Figma | Modern, minimalist layout mockups |
 | **4** | GestureDetectionApp | Detects user gestures | Tap, double-tap, long press, swipe gestures |
 | **5** | DataVisualizationApp | Visualizes data | Bar chart, line chart, pie chart, interactive charts |
